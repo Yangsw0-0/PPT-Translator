@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT-Translator"
+  short_description: "逐页翻译英文课件，保留术语、公式与图示，并生成学习版 PDF"
+  default_prompt: "使用 $ppt-translator 将这份英文课件翻译成中文学习版 PDF。"
